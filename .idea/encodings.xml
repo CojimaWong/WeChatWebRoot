@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/menu/Button.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/menu/ClickButton.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/menu/ComplexButton.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/menu/Menu.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/menu/ViewButton.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/message/event/BaseEvent.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/message/event/LocationEvent.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/message/event/MenuEvent.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/message/event/QRCodeEvent.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/message/event/SubscribeEvent.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/message/req/BaseMessage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/message/req/ImageMessage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/message/req/LinkMessage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/message/req/LocationMessage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/message/req/TextMessage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/message/req/VideoMessage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/message/req/VoiceMessage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/message/resp/Article.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/message/resp/BaseMessage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/message/resp/Image.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/message/resp/ImageMessage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/message/resp/Music.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/message/resp/MusicMessage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/message/resp/NewsMessage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/message/resp/TextMessage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/message/resp/Video.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/message/resp/VideoMessage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/message/resp/Voice.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/message/resp/VoiceMessage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/pojo/Token.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/service/CoreService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/servlet/CoreServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/util/CommonUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/util/MenuUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/util/MessageUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/util/MyX509TrustManager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/course/util/SignUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/org/scorpia/weixin/main/MenuManager.java" charset="GBK" />
+  </component>
+</project>
